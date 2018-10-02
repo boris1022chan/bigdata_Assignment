@@ -19,44 +19,44 @@ mark: 2/2
 mark: 3/3
 
 **Question 5 : highest**
-mark: 0.5/3
+mark: 3/3
 
 **Question 5 : lowest**
-mark: 0.5/3
+mark: 3/3
 
 **Question 6 : tears**
-mark: 0.5/3
+mark: 3/3
 
 **Question 6 : death**
-mark: 0.5/3
+mark: 3/3
 
 **Question 7 : pairs**
-mark: 0.5/2.5
+mark: 2.5/2.5
 
 **Question 7 : stripes**
-mark: 0.5/2.5
+mark: 2.5/2.5
 
 **Question 8 : pairs**
-mark: 0.5/2.5
+mark: 2.5/2.5
 
 **Question 8 : stripes**
-mark: 0.5/2.5
+mark: 2.5/2.5
 
 **Test 1**
 Does pairs code run on linux?
-mark: 0/5
+mark: 5/5
 
 **Test 2**
 Does stripes code run on linux?
-mark: 0/5
+mark: 5/5
 
 **Test 3**
 Does pairs code run on datasci?
-mark: 0/5
+mark: 5/5
 
 **Test 4**
 Does stripes code run on datasci?
-mark: 0/5
+mark: 5/5
 
 **Test 5**
 Does code include memory config?
@@ -68,13 +68,13 @@ mark: 7/7
 
 **Test 7**
 Private test on linux
-mark: 0/3
+mark: 3/3
 
 **Test 8**
 Private test on datasci
-mark: 0/3
+mark: 3/3
 
 **Final grade**
-mark: 26.0/70.0
+mark: 70.0/70.0
 
-summary: 20599054,Y382HUAN,hiramcandle,26.0/70.0
+summary: 20599054,Y382HUAN,hiramcandle,70.0/70.0
