@@ -137,7 +137,7 @@ public class PairsPMI extends Configured implements Tool {
       }
 
       if (key.getRightElement().equals("*")) {
-        VALUE.set(1.0f, (int) sum);
+        VALUE.set(0.0f, (int) sum);
         context.write(key, VALUE);
         marginal = sum;
       } else {
