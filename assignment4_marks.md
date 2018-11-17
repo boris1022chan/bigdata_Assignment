@@ -27,10 +27,10 @@ Correctness of single-source - Datasci
 mark: 10.0/10
 
 **Test 6**
-Correctness of single-source - Datasci
+Correctness of multi-source - Datasci
 mark: 10.0/10
 
-**late penalty :** None
+**penalty (no print to std and/or wrong print format, 2 marks each) :** None
 
 **Final grade**
 mark: 55.0/55.0
