@@ -16,11 +16,11 @@ mark: 2.5/2.5
 
 **Test 3**
 Q2 (Linux/Text)
-mark: 0.0/2.5
+mark: 1.5/2.5
 
 **Test 4**
 Q2 (Linux/Parquet)
-mark: 0.0/2.5
+mark: 1.5/2.5
 
 **Test 5**
 Q3 (Linux/Text)
@@ -72,11 +72,11 @@ mark: 2.5/2.5
 
 **Test 17**
 Q2 (Datasci/Text)
-mark: 0.0/2.5
+mark: 1.5/2.5
 
 **Test 18**
 Q2 (Datasci/Parquet)
-mark: 0.0/2.5
+mark: 1.5/2.5
 
 **Test 19**
 Q3 (Datasci/Text)
@@ -127,8 +127,9 @@ Q3 :
 Q4 : 
 Q5 : 
 Q6 : 
+Q7 : 
 
 **Final grade**
-mark: 90.0/100.0
+mark: 96.0/100.0
 
-summary: 20599054,Y382HUAN,hiramcandle,90.0/100.0
+summary: 20599054,Y382HUAN,hiramcandle,96.0/100.0
